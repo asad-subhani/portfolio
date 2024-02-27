@@ -57,7 +57,7 @@ function PersonalInfo() {
                 </p>
               </div>
             </div>
-            <Link href="https://drive.usercontent.google.com/u/0/uc?id=1fSkRMmBkt_zmwo_ZFTJsgjt2xfRgfX1h&export=download">
+            <Link href="#">
               <ButtonSwipe text="DOWNLOAD CV">
                 <IoCloudDownload size={25} />
               </ButtonSwipe>
