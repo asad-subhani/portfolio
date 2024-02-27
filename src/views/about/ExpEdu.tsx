@@ -23,7 +23,7 @@ function ExpEdu() {
                 <span className="text-gray-600">REPUTABLE COMPANY</span>
               </h4>
               <p className="leading-7 [&:not(:first-child)]:mt-6">
-                I'll be working with modern web technologies like Next Js,
+                I will be working with modern web technologies like Next Js,
                 TypeScript, Python, Fast API, PostgreSQL, Docker, Serverless
                 Containers, CDK for Terraform, GenAI API Stack and Custom GPT
                 Stack{" "}
@@ -45,7 +45,7 @@ function ExpEdu() {
               </h4>
               <p className="leading-7 [&:not(:first-child)]:mt-6">
                 Modern web technologies ( React, Next Js, TypeScript, Bootstrap,
-                and Tailwind CSS ) have been my constant attention, and I've
+                and Tailwind CSS ) have been my constant attention, and I have
                 created dynamic interfaces to guarantee cutting-edge digital
                 experiences.
               </p>
@@ -67,10 +67,10 @@ function ExpEdu() {
                 <span className="text-gray-600">PIAIC</span>
               </h4>
               <p className="leading-7 [&:not(:first-child)]:mt-6">
-                Training includes modern web technologies like "Next Js,
+                Training includes modern web technologies like Next Js,
                 TypeScript, Python, Fast API, PostgreSQL, Docker, Serverless
                 Containers, CDK for Terraform, GenAI API Stack and Custom GPT
-                Stack."
+                Stack.
               </p>
             </div>
           </div>
@@ -87,9 +87,9 @@ function ExpEdu() {
                 <span className="text-gray-600">IIUI</span>
               </h4>
               <p className="leading-7 [&:not(:first-child)]:mt-6">
-                Learned all the bace concepts like "Programming Fundamentals,
+                Learned all the bace concepts like Programming Fundamentals,
                 Object Oriented Programming, Database, DBMS, Web Development and
-                Mobile Application Development etc."
+                Mobile Application Development etc.
               </p>
             </div>
           </div>

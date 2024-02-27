@@ -7,7 +7,7 @@ function contactSect() {
     <section className="lg:flex">
       <div className="max-w-[550px] mx-auto lg:w-1/3 lg:py-12">
         <h3 className="scroll-m-20 text-2xl font-semibold tracking-tight">
-          DON'T HESITATE!
+          DO NOT HESITATE!
         </h3>
         <p className="leading-7 [&:not(:first-child)]:mt-3">
           Feel free to get in touch with me. I am always open to discussing new

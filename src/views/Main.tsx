@@ -20,7 +20,7 @@ function Main() {
       <center className="flex flex-col justify-center px-24 w-full lg:w-4/5 lg:h-full">
         <div className="flex flex-col ">
           <h1 className="scroll-m-20 text-[#FFB400] text-4xl font-extrabold tracking-wide lg:text-5xl">
-            I'M ASAD SUBHANI
+            I AM ASAD SUBHANI
           </h1>
           <h1 className=" mt-2 scroll-m-20 text-4xl font-extrabold tracking-wide lg:text-5xl">
             SOFTWARE DEVELOPER
@@ -28,8 +28,8 @@ function Main() {
         </div>
         <div className="my-10  w-full">
           <p className="leading-7 [&:not(:first-child)]:mt-6 text-center">
-            I'm a Pakistan based software developer focused on crafting state of
-            the art & user friendly software solutions, I am passionate about
+            I am a Pakistan based software developer focused on crafting state
+            of the art & user friendly software solutions, I am passionate about
             building excellent softwares that improves the lives of those around
             me.
           </p>
