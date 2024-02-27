@@ -1,6 +1,8 @@
 import ButtonSwipe from "@/components/ButtonSwipe";
-import AboutBox from "@/components/aboutBox";
+import AboutBox from "@/components/AboutBox";
 import { IoCloudDownload } from "react-icons/io5";
+import Heading3 from "@/components/Heading3";
+import Link from "next/link";
 
 function PersonalInfo() {
   return (
@@ -8,9 +10,8 @@ function PersonalInfo() {
       <section className="flex lg:flex-row gap-2 flex-col lg:h-96 w-full">
         <div className="left lg:w-1/2">
           <div className="l">
-            <h3 className=" scroll-m-20 text-2xl font-semibold tracking-tight">
-              PERSONAL INFORMATION
-            </h3>
+            <Heading3 text="PERSONAL INFORMATION" />
+
             <div className="flex my-6 justify-between lg:max-w-[90%]">
               <div>
                 <p className="leading-7 [&:not(:first-child)]:mt-4 text-gray-300">
@@ -56,10 +57,11 @@ function PersonalInfo() {
                 </p>
               </div>
             </div>
-
-            <ButtonSwipe text="DOWNLOAD CV">
-              <IoCloudDownload size={25} />
-            </ButtonSwipe>
+            <Link href="https://drive.usercontent.google.com/u/0/uc?id=1fSkRMmBkt_zmwo_ZFTJsgjt2xfRgfX1h&export=download">
+              <ButtonSwipe text="DOWNLOAD CV">
+                <IoCloudDownload size={25} />
+              </ButtonSwipe>
+            </Link>
           </div>
           <div className="r"></div>
         </div>

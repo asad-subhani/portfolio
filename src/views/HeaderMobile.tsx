@@ -81,9 +81,9 @@ const HeaderMobile = () => {
   }
 
   return (
-    <nav className="sm:hidden relative">
+    <nav className="sm:hidden relative z-20">
       <div
-        className=" z-10 flex items-center justify-center absolute rounded-md top-10 w-10 h-10 right-10 bg-slate-200/50 text-[#FFB400]"
+        className=" z-30 flex items-center justify-center absolute rounded-md top-10 w-10 h-10 right-10 bg-slate-200/50 text-[#FFB400]"
         onClick={() => {
           handleClick("");
         }}
