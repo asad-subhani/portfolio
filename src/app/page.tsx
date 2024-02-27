@@ -1,5 +1,11 @@
-import Image from "next/image";
+import HeaderMobile from "@/views/HeaderMobile";
+import Main from "@/views/Main";
 
 export default function Home() {
-  return <section>Portfolio Website</section>;
+  return (
+    <>
+      <HeaderMobile />
+      <Main />
+    </>
+  );
 }
