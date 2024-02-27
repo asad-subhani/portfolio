@@ -48,7 +48,7 @@ function PersonalInfo() {
                 <p className="leading-7 [&:not(:first-child)]:mt-4 text-gray-300">
                   GitHub:{" "}
                   <span className="text-white font-bold">
-                    https://github.com/AS007R
+                    github.com/AS007R
                   </span>
                 </p>
                 <p className="leading-7 [&:not(:first-child)]:mt-4 text-gray-300">
