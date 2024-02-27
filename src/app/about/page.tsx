@@ -1,10 +1,9 @@
 import PageHeading from "@/components/PageHeading";
 import HeaderMobile from "@/views/HeaderMobile";
 import Skills from "@/views/about/Skills";
-import PersonalInfo from "@/views/about/PersonalInfo";
-
 import React from "react";
 import ExpEdu from "@/views/about/ExpEdu";
+import PersonalInfo from "@/views/about/PersonalInfo";
 
 function About() {
   return (
