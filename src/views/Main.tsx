@@ -17,7 +17,7 @@ function Main() {
           />
         </div>
       </div>
-      <center className="flex flex-col justify-center px-24 w-full lg:w-4/5 lg:h-full">
+      <center className="flex flex-col justify-center px-10 md:px-24 w-full lg:w-4/5 lg:h-full">
         <div className="flex flex-col ">
           <h1 className="scroll-m-20 text-[#FFB400] text-4xl font-extrabold tracking-wide lg:text-5xl">
             I AM ASAD SUBHANI

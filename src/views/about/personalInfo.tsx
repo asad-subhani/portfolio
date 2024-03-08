@@ -15,7 +15,7 @@ function PersonalInfo() {
             <div className="flex my-6 justify-between lg:max-w-[90%]">
               <div>
                 <p className="leading-7 [&:not(:first-child)]:mt-4 text-gray-300">
-                  Fistr Name: <span className="text-white font-bold">Asad</span>
+                  First Name: <span className="text-white font-bold">Asad</span>
                 </p>
                 <p className="leading-7 [&:not(:first-child)]:mt-4 text-gray-300">
                   Last Name:{" "}
@@ -25,7 +25,7 @@ function PersonalInfo() {
                   Age: <span className="text-white font-bold">25 years</span>
                 </p>
                 <p className="leading-7 [&:not(:first-child)]:mt-4 text-gray-300">
-                  Nstionality:{" "}
+                  Nationality:{" "}
                   <span className="text-white font-bold">Pakistan</span>
                 </p>
                 <p className="leading-7 [&:not(:first-child)]:mt-4 text-gray-300">
