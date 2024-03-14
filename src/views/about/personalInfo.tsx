@@ -53,7 +53,7 @@ function PersonalInfo() {
                 </p>
                 <p className="leading-7 [&:not(:first-child)]:mt-4 text-gray-300">
                   Languages:{" "}
-                  <span className="text-white font-bold">Urdu, English</span>
+                  <span className="text-white font-bold">English, Urdu</span>
                 </p>
               </div>
             </div>
