@@ -38,6 +38,13 @@ function Porfolio() {
             gitRepo=""
             git={false}
           />
+          <ProjectDisp
+            projectUrl="https://clinicaltrials.pk/"
+            imgSrc="/portfolio/ctrails.png"
+            projectHeading="CLINICAL TRAILS"
+            gitRepo=""
+            git={false}
+          />
         </div>
       </section>
     </>
