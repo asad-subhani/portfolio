@@ -9,6 +9,9 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Asad Subhani",
   description: "Software Engineer in Lahore",
+  verification: {
+    google: "LN-2jMweV_3AaxGrQVyzlqLUxoGY3fpJbyry00xpr6Q",
+  }
 };
 
 export default function RootLayout({
