@@ -32,6 +32,27 @@ function Skills() {
               />
               <Image
                 className="col-span-2 max-h-20 w-full object-contain  lg:col-span-1"
+                src="/SkillsLogos/fastapi.png"
+                alt="Statamic"
+                width="158"
+                height="48"
+              />
+              <Image
+                className="col-span-2 max-h-20 w-full object-contain  lg:col-span-1"
+                src="/SkillsLogos/docker.png"
+                alt="Statamic"
+                width="158"
+                height="48"
+              />
+              <Image
+                className="col-span-2 max-h-20 w-full object-contain  lg:col-span-1"
+                src="/SkillsLogos/openai.png"
+                alt="Statamic"
+                width="158"
+                height="48"
+              />
+              <Image
+                className="col-span-2 max-h-20 w-full object-contain  lg:col-span-1"
                 src="/SkillsLogos/aws.png"
                 alt="Statamic"
                 width="158"

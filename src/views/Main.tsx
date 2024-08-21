@@ -28,10 +28,7 @@ function Main() {
         </div>
         <div className="my-10  w-full">
           <p className="leading-7 [&:not(:first-child)]:mt-6 text-center">
-            I am a Pakistan based software developer focused on crafting state
-            of the art & user friendly software solutions, I am passionate about
-            building excellent softwares that improves the lives of those around
-            me.
+          I am a Microsoft Certified Azure AI Fundamentals, equipped with a Bachelor's degree in Software Engineering. I have eight months of internship experience in Frontend Development and hands on practical experience building Cloud Native APIs using Python and Fast API.
           </p>
         </div>
         <Link href="/about">

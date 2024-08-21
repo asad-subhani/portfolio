@@ -43,12 +43,12 @@ function PersonalInfo() {
                 </p>
                 <p className="leading-7 [&:not(:first-child)]:mt-4 text-gray-300">
                   Email:{" "}
-                  <span className="text-white font-bold">asad@asaddev.com</span>
+                  <span className="text-white font-bold">asadsubhani77@gmail.com</span>
                 </p>
                 <p className="leading-7 [&:not(:first-child)]:mt-4 text-gray-300">
                   GitHub:{" "}
                   <span className="text-white font-bold">
-                    github.com/AS007R
+                    github.com/asad-subhani
                   </span>
                 </p>
                 <p className="leading-7 [&:not(:first-child)]:mt-4 text-gray-300">
@@ -57,7 +57,7 @@ function PersonalInfo() {
                 </p>
               </div>
             </div>
-            <Link href="https://drive.usercontent.google.com/u/0/uc?id=1mc60ClI-36iRzsYI_KRtwzUIa2UfVPqS&export=download">
+            <Link href="https://drive.usercontent.google.com/u/0/uc?id=1eoJYlVzm3d-v54oLTrorX4GaTr-1eYOJ&export=download">
               <ButtonSwipe text="DOWNLOAD CV">
                 <IoCloudDownload size={25} />
               </ButtonSwipe>
